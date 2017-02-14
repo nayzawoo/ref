@@ -1,4 +1,4 @@
-<?php
+<?php namespace Ch1;
 
 abstract class Price
 {

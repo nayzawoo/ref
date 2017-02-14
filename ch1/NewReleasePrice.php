@@ -1,4 +1,4 @@
-<?php
+<?php namespace Ch1;
 
 class NewReleasePrice extends Price
 {
